@@ -2,7 +2,7 @@
   "users":
 [
     {
-      "id":1
+      "id":1,
       "name":"Nguyễn Văn API",
       "email":"nguyenvana@gmail.com",
       "phone":"0123456789",
@@ -10,7 +10,7 @@
       "dateOfBirth":"2001-01-01T00:00:00.000"
     },
     {
-      "id":2
+      "id":2,
       "name" : "Trần Hùng BPI",
       "email": "tranhungb@gmail.com",
       "phone": "0123445566",
@@ -18,7 +18,7 @@
       "dateOfBirth":"2002-02-02T00:00:00.000"
     },
     {
-      "id":3
+      "id":3,
       "name": "Lê Thị CPI",
       "email": "lethic@gmail.com",
       "phone": "0102030405",
