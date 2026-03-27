@@ -1,0 +1,26 @@
+{
+  "users":
+[
+    {
+      "name":"Nguyễn Văn API",
+      "email":"nguyenvana@gmail.com",
+      "phone":"0123456789",
+      "avatar":"",
+      "dateOfBirth":DateTime(2001,1,1).toIso8601String()
+    },
+    {
+      "name" : "Trần Hùng BPI",
+      "email": "tranhungb@gmail.com",
+      "phone": "0123445566",
+      "avatar": "",
+      "dateOfBirth":DateTime(2002,2,2).toIso8601String()
+    },
+    {
+      "name": "Lê Thị CPI",
+      "email": "lethic@gmail.com",
+      "phone": "0102030405",
+      "avatar": "",
+      "dateOfBirth": DateTime(2003,3,3).toIso8601String()
+    }
+    ]
+}
