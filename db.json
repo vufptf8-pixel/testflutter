@@ -24,6 +24,54 @@
       "phone": "0102030405",
       "avatar": "https://i0.wp.com/picjumbo.com/wp-content/uploads/magical-spring-forest-scenery-during-morning-breeze-free-photo.jpg?w=600&quality=80",
       "dateOfBirth": "2003-03-03T00:00:00.000"
-    }
+    },
+    {
+      "id":4,
+      "name":"Nguyễn Văn Tùng",
+      "email":"nguyenvana@gmail.com",
+      "phone":"0123456789",
+      "avatar":"https://media.posterstore.com/site_images/68631c70f416e9f1f400385c_1792454887_WB0057-5.jpg",
+      "dateOfBirth":"2001-01-01T00:00:00.000"
+    },
+    {
+      "id":5,
+      "name" : "La Chí Vĩ",
+      "email": "tranhungb@gmail.com",
+      "phone": "0988665522",
+      "avatar": "https://wibu.com.vn/wp-content/uploads/2025/02/SPIDERMAN.png",
+      "dateOfBirth":"2002-02-02T00:00:00.000"
+    },
+  
+    ],
+  "accounts":
+  [
+    {
+      "id":1,
+      "userId":1,
+      "username": "superman",
+      "password": "superman@123456",
+      "status": "active",
+      "lastLogin":"2025-03-03T00:00:00.000",
+      "createAt":"2025-03-02T00:00:00.000"
+    }, 
+    {
+      "id":2,
+      "userId":2,
+      "username": "ironman",
+      "password": "ironman@123456",
+      "status": "active",
+      "lastLogin":"2025-03-03T00:00:00.000",
+      "createAt":"2025-03-02T00:00:00.000"
+    },
+     {
+      "id":3,
+      "userId":3,
+      "username": "hulk",
+      "password": "hulk@123456",
+      "status": "active",
+      "lastLogin":"2025-03-03T00:00:00.000",
+      "createAt":"2025-03-02T00:00:00.000"
+    },
+    
     ]
 }
