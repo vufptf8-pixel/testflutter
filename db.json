@@ -40,7 +40,7 @@
       "phone": "0988665522",
       "avatar": "https://wibu.com.vn/wp-content/uploads/2025/02/SPIDERMAN.png",
       "dateOfBirth":"2002-02-02T00:00:00.000"
-    },
+    }
   
     ],
   "accounts":
@@ -71,7 +71,7 @@
       "status": "unactive",
       "lastLogin":"2025-03-03T00:00:00.000",
       "createAt":"2025-03-02T00:00:00.000"
-    },
+    }
     
     ]
 }
